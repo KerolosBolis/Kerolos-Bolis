@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kerolos-bolis">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:kerolosbolis@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/kerolosbolis-398875216/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:kerolos.bolis.11@gmail.com">Email</a>
 </p>
 
 ---
 
 ### About Me
 
-I'm a Mechatronics Engineering graduate with a strong foundation in embedded systems, real-time control, and hardware-software integration. Over time I expanded into full-stack web development and enterprise software, building production-grade systems from the ground up.
+I'm an Engineering graduate with a strong foundation in embedded systems, real-time control, and hardware-software integration. Over time I expanded into full-stack web development and enterprise software, building production-grade systems from the ground up.
 
 I think in systems — whether it's a microcontroller running a control loop or a distributed microservices architecture handling real-time events. That cross-domain thinking is what I bring to every problem.
 
